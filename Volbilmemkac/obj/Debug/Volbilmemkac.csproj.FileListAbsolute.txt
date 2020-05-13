@@ -1,0 +1,11 @@
+C:\Users\Mery\source\repos\Volbilmemkac\Volbilmemkac\bin\Debug\Volbilmemkac.exe.config
+C:\Users\Mery\source\repos\Volbilmemkac\Volbilmemkac\bin\Debug\Volbilmemkac.exe
+C:\Users\Mery\source\repos\Volbilmemkac\Volbilmemkac\bin\Debug\Volbilmemkac.pdb
+C:\Users\Mery\source\repos\Volbilmemkac\Volbilmemkac\obj\Debug\Volbilmemkac.csprojAssemblyReference.cache
+C:\Users\Mery\source\repos\Volbilmemkac\Volbilmemkac\obj\Debug\Volbilmemkac.Form1.resources
+C:\Users\Mery\source\repos\Volbilmemkac\Volbilmemkac\obj\Debug\Volbilmemkac.Properties.Resources.resources
+C:\Users\Mery\source\repos\Volbilmemkac\Volbilmemkac\obj\Debug\Volbilmemkac.csproj.GenerateResource.cache
+C:\Users\Mery\source\repos\Volbilmemkac\Volbilmemkac\obj\Debug\Volbilmemkac.csproj.CoreCompileInputs.cache
+C:\Users\Mery\source\repos\Volbilmemkac\Volbilmemkac\obj\Debug\Volbilmemkac.exe
+C:\Users\Mery\source\repos\Volbilmemkac\Volbilmemkac\obj\Debug\Volbilmemkac.pdb
+C:\Users\Mery\source\repos\Volbilmemkac\Volbilmemkac\obj\Debug\Volbilmemkac.Form2.resources
